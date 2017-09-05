@@ -1,4 +1,6 @@
-# DataMininer
+# DataMinner
+Simplified tools to mine the data using Apache Spark, which improvise the performance of the product with large amount of data.
+
 
 **Folder Structure**
 
